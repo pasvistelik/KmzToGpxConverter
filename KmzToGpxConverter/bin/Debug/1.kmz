@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Путь без названия</name>
+		<LookAt>
+			<longitude>23.81777856065828</longitude>
+			<latitude>53.64542258846432</latitude>
+			<altitude>0</altitude>
+			<heading>-0.02896232262485565</heading>
+			<tilt>0</tilt>
+			<range>337.7670469476591</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				23.81632636712222,53.64607102887352,0 23.81625699356244,53.64610988763792,0 23.81620635915228,53.64614986310554,0 23.81617258595647,53.64619539819307,0 23.81616504323281,53.6462476067123,0 23.81617623599514,53.64630537544617,0 23.8162136662755,53.64636204151921,0 23.81632795639787,53.64647509963772,0 23.81662382759959,53.64673402402023,0 23.81675220362096,53.64681015119263,0 23.81687772470916,53.64685684630489,0 23.81701262316517,53.64689576806857,0 23.81716252788269,53.64691914214893,0 23.81733305426294,53.64693474622222,0 23.81750360376864,53.64692368922382,0 23.81765355286196,53.64689596273919,0 23.81780914403895,53.6468449094791,0 23.81793287961303,53.64678940299957,0 23.81803200386918,53.64672909227852,0 23.81810140125749,53.64666134986522,0 23.81815580606571,53.64659360295327,0 23.81820087423748,53.64648586191221,0 23.81820762666544,53.64637355436859,0 23.81820292653766,53.64609970505968,0 23.818222596741,53.64544328317193,0 23.81814453760497,53.64513343953559,0 23.81807967889434,53.64486204791554,0 23.81801879607998,53.64462515887247,0 23.81794988525695,53.64436055435994,0 23.81783050981791,53.64389098579981,0 23.81771802557365,53.64360604436523,0 23.81769066509953,53.64350932381043,0 23.81751632240584,53.64295773663435,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

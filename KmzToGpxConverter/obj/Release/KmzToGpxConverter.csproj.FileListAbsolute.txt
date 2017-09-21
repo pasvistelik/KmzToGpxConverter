@@ -1,0 +1,9 @@
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\bin\Release\KmzToGpxConverter.exe.config
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\bin\Release\KmzToGpxConverter.exe
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\bin\Release\KmzToGpxConverter.pdb
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\bin\Release\Newtonsoft.Json.dll
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\bin\Release\Newtonsoft.Json.xml
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\obj\Release\KmzToGpxConverter.Properties.Resources.resources
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\obj\Release\KmzToGpxConverter.csproj.GenerateResource.Cache
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\obj\Release\KmzToGpxConverter.exe
+D:\Files\VS_Projects\Test\KmzToGpxConverter\KmzToGpxConverter\obj\Release\KmzToGpxConverter.pdb
